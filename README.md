@@ -1,16 +1,11 @@
-# 👋 Hi there, I'm Lin Beiyao!
+# 👋大家好，我是林北瑶！
 
-- 🔭 I'm currently focused on learning Pwn, exploring the realm of cybersecurity.
-- 🌱 I'm deeply interested in Pwn, basic computer knowledge, embedded systems, and IoT.
-- 👀 I'm an Entp|Pwner|Embedded Engineer with a passion for hacking and tinkering with technology.
-- 💞️ I'm eager to collaborate on Pwn challenges and projects related to cybersecurity.
-- 📫 You can reach me at: [juuroppa@mailfence.com](mailto:juuroppa@mailfence.com)
-- 😄 Pronouns: he/him (or any you prefer)
-- ⚡ Fun fact: I enjoy unraveling the mysteries of computer systems and finding creative solutions to problems.
+- 🔭我目前专注于学习Pwn，探索网络安全领域。
+- 🌱 我对Pwn、计算机基础知识、嵌入式系统和物联网很感兴趣。
+- 👀 我是一名 Entp|Pwner|嵌入式工程师，热衷于黑客攻击和修补技术。
+- 💞️ 我渴望在 Pwn 挑战和与网络安全相关的项目上进行合作。
+- 📫 您可以通过以下方式联系我：[ juuroppa@mailfence.com ] ( mailto:juuroppa@mailfence.com )
+- 😄 代词：他/他（或任何你喜欢的）
+- ⚡ 有趣的事实：我喜欢揭开计算机系统的奥秘并寻找创造性的问题解决方案。
 
-Feel free to explore my repositories and reach out for any collaborations or discussions related to Pwn, cybersecurity, embedded systems, or anything tech-related! Let's hack the world together! 💻🔒✨
-
-<!---
-linbeiyao/linbeiyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+请随意探索我的存储库并寻求与 Pwn、网络安全、嵌入式系统或任何技术相关的任何合作或讨论！让我们一起破解世界吧！💻🔒✨
