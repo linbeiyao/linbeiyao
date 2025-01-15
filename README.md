@@ -16,5 +16,5 @@
 ## ✨github stats✨
 [![juuroppa's GitHub stats](https://github-readme-stats.vercel.app/api?username=linbeiyao)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linbeiyao)](https://github.com/anuraghazra/github-readme-stats)
+[![juuroppa's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=linbeiyao)](https://github.com/anuraghazra/github-readme-stats)
 
